@@ -1,0 +1,543 @@
+	/*
+		Flaticon icon font: Flaticon
+		Creation date: 31/10/2019 15:25
+		*/
+
+	@font-face {
+		font-family: "flaticondefault";
+		src: url("flaticon-default.eot");
+		src: url("flaticon-defaultd41d.eot?#iefix") format("embedded-opentype"),
+			url("flaticon-default.woff2") format("woff2"),
+			url("flaticon-default.woff") format("woff"),
+			url("flaticon-default.ttf") format("truetype"),
+			url("flaticon-default.svg#Flaticon") format("svg");
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+		@font-face {
+			font-family: "flaticondefault";
+			src: url("flaticon-default.svg#Flaticon") format("svg");
+		}
+	}
+
+	[class^="webexflaticon webex-flaticon-"]:before,
+	[class*="webexflaticon webex-flaticon-"]:before,
+	[class^="webexflaticon webex-flaticon-"]:after,
+	[class*="webexflaticon webex-flaticon-"]:after {
+		font-family: flaticondefault;
+		font-size: 20px;
+		font-style: normal;
+	}
+
+	.webexflaticon.webex-flaticon-call:before {
+		content: "\f100";
+	}
+	.webexflaticon.webex-flaticon-email:before {
+		content: "\f101";
+	}
+	.webexflaticon.webex-flaticon-contact:before {
+		content: "\f102";
+	}
+	.webexflaticon.webex-flaticon-location:before {
+		content: "\f103";
+	}
+	.webexflaticon.webex-flaticon-send:before {
+		content: "\f104";
+	}
+	.webexflaticon.webex-flaticon-email-1:before {
+		content: "\f105";
+	}
+	.webexflaticon.webex-flaticon-globe:before {
+		content: "\f106";
+	}
+	.webexflaticon.webex-flaticon-home:before {
+		content: "\f107";
+	}
+	.webexflaticon.webex-flaticon-phone:before {
+		content: "\f108";
+	}
+	.webexflaticon.webex-flaticon-call-1:before {
+		content: "\f109";
+	}
+	.webexflaticon.webex-flaticon-phone-1:before {
+		content: "\f10a";
+	}
+	.webexflaticon.webex-flaticon-pin:before {
+		content: "\f10b";
+	}
+	.webexflaticon.webex-flaticon-send-1:before {
+		content: "\f10c";
+	}
+	.webexflaticon.webex-flaticon-mail:before {
+		content: "\f10d";
+	}
+	.webexflaticon.webex-flaticon-telephone-call:before {
+		content: "\f10e";
+	}
+	.webexflaticon.webex-flaticon-globe-1:before {
+		content: "\f10f";
+	}
+	.webexflaticon.webex-flaticon-global:before {
+		content: "\f110";
+	}
+	.webexflaticon.webex-flaticon-mail-1:before {
+		content: "\f111";
+	}
+	.webexflaticon.webex-flaticon-mail-2:before {
+		content: "\f112";
+	}
+	.webexflaticon.webex-flaticon-consultation:before {
+		content: "\f113";
+	}
+	.webexflaticon.webex-flaticon-consulting:before {
+		content: "\f114";
+	}
+	.webexflaticon.webex-flaticon-plan:before {
+		content: "\f115";
+	}
+	.webexflaticon.webex-flaticon-team:before {
+		content: "\f116";
+	}
+	.webexflaticon.webex-flaticon-networking:before {
+		content: "\f117";
+	}
+	.webexflaticon.webex-flaticon-meeting:before {
+		content: "\f118";
+	}
+	.webexflaticon.webex-flaticon-target:before {
+		content: "\f119";
+	}
+	.webexflaticon.webex-flaticon-target-1:before {
+		content: "\f11a";
+	}
+	.webexflaticon.webex-flaticon-analytics:before {
+		content: "\f11b";
+	}
+	.webexflaticon.webex-flaticon-analysis:before {
+		content: "\f11c";
+	}
+	.webexflaticon.webex-flaticon-target-2:before {
+		content: "\f11d";
+	}
+	.webexflaticon.webex-flaticon-travel:before {
+		content: "\f11e";
+	}
+	.webexflaticon.webex-flaticon-neural:before {
+		content: "\f11f";
+	}
+	.webexflaticon.webex-flaticon-hands:before {
+		content: "\f120";
+	}
+	.webexflaticon.webex-flaticon-handshake:before {
+		content: "\f121";
+	}
+	.webexflaticon.webex-flaticon-data-science:before {
+		content: "\f122";
+	}
+	.webexflaticon.webex-flaticon-growth:before {
+		content: "\f123";
+	}
+	.webexflaticon.webex-flaticon-creativity:before {
+		content: "\f124";
+	}
+	.webexflaticon.webex-flaticon-database:before {
+		content: "\f125";
+	}
+	.webexflaticon.webex-flaticon-conference:before {
+		content: "\f126";
+	}
+	.webexflaticon.webex-flaticon-coding:before {
+		content: "\f127";
+	}
+	.webexflaticon.webex-flaticon-feedback:before {
+		content: "\f128";
+	}
+	.webexflaticon.webex-flaticon-meeting-1:before {
+		content: "\f129";
+	}
+	.webexflaticon.webex-flaticon-medal:before {
+		content: "\f12a";
+	}
+	.webexflaticon.webex-flaticon-analysis-1:before {
+		content: "\f12b";
+	}
+	.webexflaticon.webex-flaticon-presentation:before {
+		content: "\f12c";
+	}
+	.webexflaticon.webex-flaticon-trophy:before {
+		content: "\f12d";
+	}
+	.webexflaticon.webex-flaticon-placeholder:before {
+		content: "\f12e";
+	}
+	.webexflaticon.webex-flaticon-graduation:before {
+		content: "\f12f";
+	}
+	.webexflaticon.webex-flaticon-briefcase:before {
+		content: "\f130";
+	}
+	.webexflaticon.webex-flaticon-building:before {
+		content: "\f131";
+	}
+	.webexflaticon.webex-flaticon-padlock:before {
+		content: "\f132";
+	}
+	.webexflaticon.webex-flaticon-house:before {
+		content: "\f133";
+	}
+	.webexflaticon.webex-flaticon-benchmark:before {
+		content: "\f134";
+	}
+	.webexflaticon.webex-flaticon-startup:before {
+		content: "\f135";
+	}
+	.webexflaticon.webex-flaticon-dollar-bill:before {
+		content: "\f136";
+	}
+	.webexflaticon.webex-flaticon-test:before {
+		content: "\f137";
+	}
+	.webexflaticon.webex-flaticon-diamond:before {
+		content: "\f138";
+	}
+	.webexflaticon.webex-flaticon-partnership:before {
+		content: "\f139";
+	}
+	.webexflaticon.webex-flaticon-map:before {
+		content: "\f13a";
+	}
+	.webexflaticon.webex-flaticon-degree:before {
+		content: "\f13b";
+	}
+	.webexflaticon.webex-flaticon-delivery-truck:before {
+		content: "\f13c";
+	}
+	.webexflaticon.webex-flaticon-statistics:before {
+		content: "\f13d";
+	}
+	.webexflaticon.webex-flaticon-delivery-truck-1:before {
+		content: "\f13e";
+	}
+	.webexflaticon.webex-flaticon-pencil:before {
+		content: "\f13f";
+	}
+	.webexflaticon.webex-flaticon-open:before {
+		content: "\f140";
+	}
+	.webexflaticon.webex-flaticon-innovation:before {
+		content: "\f141";
+	}
+	.webexflaticon.webex-flaticon-close:before {
+		content: "\f142";
+	}
+	.webexflaticon.webex-flaticon-school:before {
+		content: "\f143";
+	}
+	.webexflaticon.webex-flaticon-search:before {
+		content: "\f144";
+	}
+	.webexflaticon.webex-flaticon-efficiency:before {
+		content: "\f145";
+	}
+	.webexflaticon.webex-flaticon-guarantee:before {
+		content: "\f146";
+	}
+	.webexflaticon.webex-flaticon-target-3:before {
+		content: "\f147";
+	}
+	.webexflaticon.webex-flaticon-engineer:before {
+		content: "\f148";
+	}
+	.webexflaticon.webex-flaticon-management:before {
+		content: "\f149";
+	}
+	.webexflaticon.webex-flaticon-shopping-basket:before {
+		content: "\f14a";
+	}
+	.webexflaticon.webex-flaticon-shopping-bag:before {
+		content: "\f14b";
+	}
+	.webexflaticon.webex-flaticon-layers:before {
+		content: "\f14c";
+	}
+	.webexflaticon.webex-flaticon-menu:before {
+		content: "\f14d";
+	}
+	.webexflaticon.webex-flaticon-man:before {
+		content: "\f14e";
+	}
+	.webexflaticon.webex-flaticon-man-1:before {
+		content: "\f14f";
+	}
+	.webexflaticon.webex-flaticon-woman:before {
+		content: "\f150";
+	}
+	.webexflaticon.webex-flaticon-woman-1:before {
+		content: "\f151";
+	}
+	.webexflaticon.webex-flaticon-nerd:before {
+		content: "\f152";
+	}
+	.webexflaticon.webex-flaticon-user:before {
+		content: "\f153";
+	}
+	.webexflaticon.webex-flaticon-woman-2:before {
+		content: "\f154";
+	}
+	.webexflaticon.webex-flaticon-management-1:before {
+		content: "\f155";
+	}
+	.webexflaticon.webex-flaticon-woman-3:before {
+		content: "\f156";
+	}
+	.webexflaticon.webex-flaticon-analysis-2:before {
+		content: "\f157";
+	}
+	.webexflaticon.webex-flaticon-woman-4:before {
+		content: "\f158";
+	}
+	.webexflaticon.webex-flaticon-phone-2:before {
+		content: "\f159";
+	}
+	.webexflaticon.webex-flaticon-clock:before {
+		content: "\f15a";
+	}
+	.webexflaticon.webex-flaticon-clock-1:before {
+		content: "\f15b";
+	}
+	.webexflaticon.webex-flaticon-clock-2:before {
+		content: "\f15c";
+	}
+	.webexflaticon.webex-flaticon-email-2:before {
+		content: "\f15d";
+	}
+	.webexflaticon.webex-flaticon-world:before {
+		content: "\f15e";
+	}
+	.webexflaticon.webex-flaticon-play-button:before {
+		content: "\f15f";
+	}
+	.webexflaticon.webex-flaticon-play-button-1:before {
+		content: "\f160";
+	}
+	.webexflaticon.webex-flaticon-placeholder-1:before {
+		content: "\f161";
+	}
+	.webexflaticon.webex-flaticon-like:before {
+		content: "\f162";
+	}
+	.webexflaticon.webex-flaticon-user-1:before {
+		content: "\f163";
+	}
+	.webexflaticon.webex-flaticon-like-1:before {
+		content: "\f164";
+	}
+	.webexflaticon.webex-flaticon-star:before {
+		content: "\f165";
+	}
+	.webexflaticon.webex-flaticon-photo-camera:before {
+		content: "\f166";
+	}
+	.webexflaticon.webex-flaticon-internet:before {
+		content: "\f167";
+	}
+	.webexflaticon.webex-flaticon-error:before {
+		content: "\f168";
+	}
+	.webexflaticon.webex-flaticon-calendar:before {
+		content: "\f169";
+	}
+	.webexflaticon.webex-flaticon-placeholder-2:before {
+		content: "\f16a";
+	}
+	.webexflaticon.webex-flaticon-settings:before {
+		content: "\f16b";
+	}
+	.webexflaticon.webex-flaticon-placeholder-3:before {
+		content: "\f16c";
+	}
+	.webexflaticon.webex-flaticon-map-location:before {
+		content: "\f16d";
+	}
+	.webexflaticon.webex-flaticon-users:before {
+		content: "\f16e";
+	}
+	.webexflaticon.webex-flaticon-settings-1:before {
+		content: "\f16f";
+	}
+	.webexflaticon.webex-flaticon-video-player:before {
+		content: "\f170";
+	}
+	.webexflaticon.webex-flaticon-origami:before {
+		content: "\f171";
+	}
+	.webexflaticon.webex-flaticon-avatar:before {
+		content: "\f172";
+	}
+	.webexflaticon.webex-flaticon-clock-3:before {
+		content: "\f173";
+	}
+	.webexflaticon.webex-flaticon-diamond-1:before {
+		content: "\f174";
+	}
+	.webexflaticon.webex-flaticon-like-2:before {
+		content: "\f175";
+	}
+	.webexflaticon.webex-flaticon-bell:before {
+		content: "\f176";
+	}
+	.webexflaticon.webex-flaticon-server:before {
+		content: "\f177";
+	}
+	.webexflaticon.webex-flaticon-time:before {
+		content: "\f178";
+	}
+	.webexflaticon.webex-flaticon-bookmark:before {
+		content: "\f179";
+	}
+	.webexflaticon.webex-flaticon-attach:before {
+		content: "\f17a";
+	}
+	.webexflaticon.webex-flaticon-layers-1:before {
+		content: "\f17b";
+	}
+	.webexflaticon.webex-flaticon-menu-1:before {
+		content: "\f17c";
+	}
+	.webexflaticon.webex-flaticon-layers-2:before {
+		content: "\f17d";
+	}
+	.webexflaticon.webex-flaticon-fingerprint:before {
+		content: "\f17e";
+	}
+	.webexflaticon.webex-flaticon-chart:before {
+		content: "\f17f";
+	}
+	.webexflaticon.webex-flaticon-graphic:before {
+		content: "\f180";
+	}
+	.webexflaticon.webex-flaticon-work:before {
+		content: "\f181";
+	}
+	.webexflaticon.webex-flaticon-man-2:before {
+		content: "\f182";
+	}
+	.webexflaticon.webex-flaticon-smile:before {
+		content: "\f183";
+	}
+	.webexflaticon.webex-flaticon-smile-1:before {
+		content: "\f184";
+	}
+	.webexflaticon.webex-flaticon-medal-1:before {
+		content: "\f185";
+	}
+	.webexflaticon.webex-flaticon-quality:before {
+		content: "\f186";
+	}
+	.webexflaticon.webex-flaticon-trophy-1:before {
+		content: "\f187";
+	}
+	.webexflaticon.webex-flaticon-trophy-2:before {
+		content: "\f188";
+	}
+	.webexflaticon.webex-flaticon-trophy-3:before {
+		content: "\f189";
+	}
+	.webexflaticon.webex-flaticon-award:before {
+		content: "\f18a";
+	}
+	.webexflaticon.webex-flaticon-quality-1:before {
+		content: "\f18b";
+	}
+	.webexflaticon.webex-flaticon-marketing:before {
+		content: "\f18c";
+	}
+	.webexflaticon.webex-flaticon-shopping-cart:before {
+		content: "\f18d";
+	}
+	.webexflaticon.webex-flaticon-telephone:before {
+		content: "\f18e";
+	}
+	.webexflaticon.webex-flaticon-shopping-cart-1:before {
+		content: "\f18f";
+	}
+	.webexflaticon.webex-flaticon-envelope:before {
+		content: "\f190";
+	}
+	.webexflaticon.webex-flaticon-play-button-2:before {
+		content: "\f191";
+	}
+	.webexflaticon.webex-flaticon-like-3:before {
+		content: "\f192";
+	}
+	.webexflaticon.webex-flaticon-briefcase-1:before {
+		content: "\f193";
+	}
+	.webexflaticon.webex-flaticon-employee:before {
+		content: "\f194";
+	}
+	.webexflaticon.webex-flaticon-user-2:before {
+		content: "\f195";
+	}
+	.webexflaticon.webex-flaticon-employee-1:before {
+		content: "\f196";
+	}
+	.webexflaticon.webex-flaticon-clock-4:before {
+		content: "\f197";
+	}
+	.webexflaticon.webex-flaticon-time-management:before {
+		content: "\f198";
+	}
+	.webexflaticon.webex-flaticon-rocket:before {
+		content: "\f199";
+	}
+	.webexflaticon.webex-flaticon-trophy-4:before {
+		content: "\f19a";
+	}
+	.webexflaticon.webex-flaticon-idea:before {
+		content: "\f19b";
+	}
+	.webexflaticon.webex-flaticon-event:before {
+		content: "\f19c";
+	}
+	.webexflaticon.webex-flaticon-employee-2:before {
+		content: "\f19d";
+	}
+	.webexflaticon.webex-flaticon-megaphone:before {
+		content: "\f19e";
+	}
+	.webexflaticon.webex-flaticon-presentation-1:before {
+		content: "\f19f";
+	}
+	.webexflaticon.webex-flaticon-search-1:before {
+		content: "\f1a0";
+	}
+	.webexflaticon.webex-flaticon-briefcase-2:before {
+		content: "\f1a1";
+	}
+	.webexflaticon.webex-flaticon-wallet:before {
+		content: "\f1a2";
+	}
+	.webexflaticon.webex-flaticon-profits:before {
+		content: "\f1a3";
+	}
+	.webexflaticon.webex-flaticon-exchange:before {
+		content: "\f1a4";
+	}
+	.webexflaticon.webex-flaticon-money:before {
+		content: "\f1a5";
+	}
+	.webexflaticon.webex-flaticon-auction:before {
+		content: "\f1a6";
+	}
+	.webexflaticon.webex-flaticon-search-2:before {
+		content: "\f1a7";
+	}
+	.webexflaticon.webex-flaticon-coffee-cup:before {
+		content: "\f1a8";
+	}
+	.webexflaticon.webex-flaticon-umbrella:before {
+		content: "\f1a9";
+	}

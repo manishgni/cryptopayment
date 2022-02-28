@@ -1,0 +1,192 @@
+	/*
+		Flaticon icon font: Flaticon
+		Creation date: 22/12/2019 08:46
+		*/
+
+	@font-face {
+		font-family: "webexindustryicon";
+		src: url("../fonts/webexindustryicon/Flaticon.eot");
+		src: url("../fonts/webexindustryicon/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+			url("../fonts/webexindustryicon/Flaticon.woff2") format("woff2"),
+			url("../fonts/webexindustryicon/Flaticon.woff") format("woff"),
+			url("../fonts/webexindustryicon/Flaticon.ttf") format("truetype"),
+			url("../fonts/webexindustryicon/Flaticon.svg#Flaticon") format("svg");
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+		@font-face {
+			font-family: "webexindustryicon";
+			src: url("../fonts/webexindustryicon/Flaticon.svg#Flaticon") format("svg");
+		}
+	}
+
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+		font-family: webexindustryicon;
+		font-size: 20px;
+		font-style: normal;
+	}
+
+	.flaticon-engineer:before {
+		content: "\f100";
+	}
+	.flaticon-engineer-1:before {
+		content: "\f101";
+	}
+	.flaticon-worker:before {
+		content: "\f102";
+	}
+	.flaticon-tripod:before {
+		content: "\f103";
+	}
+	.flaticon-excavator:before {
+		content: "\f104";
+	}
+	.flaticon-house:before {
+		content: "\f105";
+	}
+	.flaticon-crane:before {
+		content: "\f106";
+	}
+	.flaticon-building:before {
+		content: "\f107";
+	}
+	.flaticon-crane-1:before {
+		content: "\f108";
+	}
+	.flaticon-helmet:before {
+		content: "\f109";
+	}
+	.flaticon-steamroller:before {
+		content: "\f10a";
+	}
+	.flaticon-concrete-mixer:before {
+		content: "\f10b";
+	}
+	.flaticon-truck:before {
+		content: "\f10c";
+	}
+	.flaticon-brickwall:before {
+		content: "\f10d";
+	}
+	.flaticon-construction-machine:before {
+		content: "\f10e";
+	}
+	.flaticon-heavy-vehicle-1:before {
+		content: "\f10f";
+	}
+	.flaticon-engineer-2:before {
+		content: "\f110";
+	}
+	.flaticon-engineer-3:before {
+		content: "\f111";
+	}
+	.flaticon-search:before {
+		content: "\f112";
+	}
+	.flaticon-constructor-with-hard-hat-protection-on-his-head:before {
+		content: "\f113";
+	}
+	.flaticon-helmet-1:before {
+		content: "\f114";
+	}
+	.flaticon-drill:before {
+		content: "\f115";
+	}
+	.flaticon-worker-of-construction-working-with-a-shovel-beside-material-pile:before {
+		content: "\f116";
+	}
+	.flaticon-crane-2:before {
+		content: "\f117";
+	}
+	.flaticon-truck-transport-with-construction-materials:before {
+		content: "\f118";
+	}
+	.flaticon-drawing:before {
+		content: "\f119";
+	}
+	.flaticon-constructor-with-hat-and-a-gear:before {
+		content: "\f11a";
+	}
+	.flaticon-architecture-crane-tool:before {
+		content: "\f11b";
+	}
+	.flaticon-smog-factory-building-contamination:before {
+		content: "\f11c";
+	}
+	.flaticon-demolition-tool-transport-with-weight-ball:before {
+		content: "\f11d";
+	}
+	.flaticon-drill-tool-to-make-holes:before {
+		content: "\f11e";
+	}
+	.flaticon-construction-vehicle-for-concrete-transportation:before {
+		content: "\f11f";
+	}
+	.flaticon-hook-of-a-crane:before {
+		content: "\f120";
+	}
+	.flaticon-truck-for-construction-materials-transport:before {
+		content: "\f121";
+	}
+	.flaticon-factory-building:before {
+		content: "\f122";
+	}
+	.flaticon-construction-vehicle:before {
+		content: "\f123";
+	}
+	.flaticon-fix:before {
+		content: "\f124";
+	}
+	.flaticon-pail:before {
+		content: "\f125";
+	}
+	.flaticon-oil-platform:before {
+		content: "\f126";
+	}
+	.flaticon-gasoline:before {
+		content: "\f127";
+	}
+	.flaticon-refinery:before {
+		content: "\f128";
+	}
+	.flaticon-pump-jack:before {
+		content: "\f129";
+	}
+	.flaticon-factory:before {
+		content: "\f12a";
+	}
+	.flaticon-tool:before {
+		content: "\f12b";
+	}
+	.flaticon-blueprint:before {
+		content: "\f12c";
+	}
+	.flaticon-wheel:before {
+		content: "\f12d";
+	}
+	.flaticon-painter:before {
+		content: "\f12e";
+	}
+	.flaticon-house-1:before {
+		content: "\f12f";
+	}
+	.flaticon-dig:before {
+		content: "\f130";
+	}
+	.flaticon-worker-1:before {
+		content: "\f131";
+	}
+	.flaticon-blueprint-1:before {
+		content: "\f132";
+	}
+	.flaticon-dumper:before {
+		content: "\f133";
+	}
+	.flaticon-crane-3:before {
+		content: "\f134";
+	}
